@@ -10,3 +10,4 @@ This project analyzes sales data and presents insights using **Power BI/Tableau*
 ---
 
 ## 📂 Project Structure
+📁 sales-dashboard/ │── 📂 data/ # Raw dataset (CSV) │── 📂 notebooks/ # Jupyter Notebook for data analysis │── 📂 output/ # Processed data for Power BI/Tableau │── 📂 reports/ # Power BI/Tableau dashboards (PDF) │── 📂 screenshots/ # Dashboard screenshots for README │── 📄 README.md # Project documentation │── 📄 requirements.txt # Python dependencies │── 📄 .gitignore # Ignore unnecessary files
